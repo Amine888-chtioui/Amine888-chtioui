@@ -18,15 +18,14 @@
 
 ---
 
-## ✨ What Motivates Me
-
-
-
-| 🏥 | Building real-world management apps |
-| 🧠 | Solving problems with clean code |
-| 📚 | Continuous learning & improving |
-| ✨ | Writing structured and maintainable code |
-
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🏥 [gestion-clinic](https://github.com/Amine888-chtioui/gestion-clinic) | Medical clinic management system | HTML, PHP |
+| 👤 [gestion-patient-clinique](https://github.com/Amine888-chtioui/gestion-patient-clinique) | Patient records management | JavaScript, PHP |
+| ✅ [manager-tasks](https://github.com/Amine888-chtioui/manager-tasks) | Task management application | CSS, JS |
+| 🔧 [laravel-tasks](https://github.com/Amine888-chtioui/laravel-tasks) | Task manager with Laravel MVC | PHP, Laravel |
+| 📁 [gestion_exel](https://github.com/Amine888-chtioui/gestion_exel) | Excel file management tool | PHP |
+ 
 ---
 
 ## 🛠️ Tech Stack
