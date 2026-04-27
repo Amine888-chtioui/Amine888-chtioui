@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Amine Chtioui!
+# 👋 Hi, I'm Mohamed Amine Chtioui!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
