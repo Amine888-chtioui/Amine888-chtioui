@@ -1,65 +1,79 @@
 <div align="center">
 
-# 👋 Salut, je suis Amine Chtioui
+# 👋 Hi, I'm Amine Chtioui!
 
-### Développeur Web Full-Stack | Maroc 🇲🇦
-
-[![GitHub followers](https://img.shields.io/github/followers/Amine888-chtioui?label=Followers&style=social)](https://github.com/Amine888-chtioui)
-[![GitHub stars](https://img.shields.io/github/stars/Amine888-chtioui?label=Stars&style=social)](https://github.com/Amine888-chtioui)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;PHP+%7C+Laravel+%7C+JavaScript;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🎓 About Me
 
-Je suis un développeur web passionné basé à **Bouznika, Maroc**, spécialisé dans le développement d'applications web de gestion. J'aime créer des solutions simples et efficaces pour des problèmes concrets.
-
-- 🔭 Je travaille actuellement sur des projets de **gestion clinique et médicale**
-- 🌱 En apprentissage continu sur **Laravel, JavaScript et les architectures MVC**
-- 💡 Je m'intéresse à la gestion de données, aux tableaux de bord et aux systèmes CRUD
-- 📍 Basé à **Bouznika, Maroc**
+- 🏫 **Developer** passionate about web applications
+- 💻 Specialized in **Full-Stack Web Development**
+- 🚀 I build practical and well-structured solutions
+- 📍 Based in **Bouznika, Morocco 🇲🇦**
+- 📫 Reach me at: **amine.chtioui@email.com**
+- 🎧 Fun fact: I love building management systems that actually solve real problems
 
 ---
 
-## 🛠️ Technologies & Outils
+## ✨ What Motivates Me
 
-### Langages
+| | |
+|---|---|
+| 🏥 | Building real-world management apps |
+| 🧠 | Solving problems with clean code |
+| 📚 | Continuous learning & improving |
+| ✨ | Writing structured and maintainable code |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Librairies
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🎨 Frontend
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Bases de données & Outils
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 Projets Phares
+## 🚀 Featured Projects
 
-| Projet | Description | Technologies |
-|--------|-------------|-------------|
-| [🏥 gestion-clinic](https://github.com/Amine888-chtioui/gestion-clinic) | Système de gestion d'une clinique médicale | HTML, PHP |
-| [👤 gestion-patient-clinique](https://github.com/Amine888-chtioui/gestion-patient-clinique) | Gestion des patients dans une clinique | JavaScript, PHP |
-| [✅ manager-tasks](https://github.com/Amine888-chtioui/manager-tasks) | Application de gestion de tâches | CSS, JS |
-| [🔧 laravel-tasks](https://github.com/Amine888-chtioui/laravel-tasks) | Gestionnaire de tâches avec Laravel | PHP, Laravel |
-| [📊 task_manager](https://github.com/Amine888-chtioui/task_manager) | Système de gestion de tâches MVC | PHP |
-| [📁 gestion_exel](https://github.com/Amine888-chtioui/gestion_exel) | Gestion et traitement de fichiers Excel | PHP |
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🏥 [gestion-clinic](https://github.com/Amine888-chtioui/gestion-clinic) | Medical clinic management system | HTML, PHP |
+| 👤 [gestion-patient-clinique](https://github.com/Amine888-chtioui/gestion-patient-clinique) | Patient records management | JavaScript, PHP |
+| ✅ [manager-tasks](https://github.com/Amine888-chtioui/manager-tasks) | Task management application | CSS, JS |
+| 🔧 [laravel-tasks](https://github.com/Amine888-chtioui/laravel-tasks) | Task manager with Laravel MVC | PHP, Laravel |
+| 📁 [gestion_exel](https://github.com/Amine888-chtioui/gestion_exel) | Excel file management tool | PHP |
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Amine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amine888-chtioui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amine888-chtioui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amine888-chtioui&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -67,16 +81,42 @@ Je suis un développeur web passionné basé à **Bouznika, Maroc**, spécialis�
 
 ---
 
-## 📫 Me contacter
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amine888-chtioui&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Amine888--chtioui-181717?style=for-the-badge&logo=github)](https://github.com/Amine888-chtioui)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amine.chtioui@email.com)
+
+</div>
+
+---
+
+## 👀 Visitors
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Amine888-chtioui&color=0ea5e9&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>💻 "La simplicité est la sophistication suprême." — Léonard de Vinci</i>
+
+## 💡 Quote
+
+### 🚀 *"The best code is the one that solves a real problem."*
+**— Amine Chtioui**
+
 </div>
