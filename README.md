@@ -18,7 +18,7 @@
 
 ## ✨ What Motivates Me
  
-| | |
+
 |---|---|
 | 🏥 | Building real-world management apps |
 | 🧠 | Solving problems with clean code |
