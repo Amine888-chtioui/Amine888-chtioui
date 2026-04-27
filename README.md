@@ -13,16 +13,15 @@
 - 🏫 **Developer** passionate about web applications
 - 💻 Specialized in **Full-Stack Web Development**
 - 🚀 I build practical and well-structured solutions
-- 📍 Based in **Bouznika, Morocco 🇲🇦**
-- 📫 Reach me at: **amine.chtioui@email.com**
+- 📍 Based in **Morocco**
 - 🎧 Fun fact: I love building management systems that actually solve real problems
 
 ---
 
 ## ✨ What Motivates Me
 
-| | |
-|---|---|
+
+
 | 🏥 | Building real-world management apps |
 | 🧠 | Solving problems with clean code |
 | 📚 | Continuous learning & improving |
